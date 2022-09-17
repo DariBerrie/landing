@@ -1,4 +1,4 @@
-@media (max-width: 2500px) {
+@media screen and (max-width: 2500px) {
   .card_container {
     margin: 30px 200px;
     display: flex;
@@ -6,7 +6,7 @@
     align-items: flex-start;
   }
   }
-  @media (max-width: 900px) {
+  @media screen and (max-width: 900px) {
     .card_container {
       margin: 30px 80px;
       display: flex;
@@ -14,7 +14,7 @@
       align-items: flex-start;
     }
   }
-  @media (max-width: 500px) {
+  @media screen and (max-width: 500px) {
       .card_container {
         position: relative;
         margin: 30px 50px;
