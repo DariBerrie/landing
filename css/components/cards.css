@@ -1,0 +1,21 @@
+.card_container {
+  margin: 30px 200px;
+  display: flex;
+  justify-content:space-around;
+  align-items: flex-start;
+
+}
+.card {
+  width: 200px;
+  height: 250px;
+  padding: 25px;
+  border: 1px solid rgb(221, 221, 221);
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+.card img {
+  width: 100px;
+}
+.card p {
+  color: rgb(95, 95, 95);
+}

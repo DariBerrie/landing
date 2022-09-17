@@ -1,0 +1,10 @@
+.banner .btn-yellow {
+  background-color: rgb(248, 191, 59);
+  padding: 15px 25px;
+  color: white;
+  font-weight:bolder;
+  border-radius: 25px;
+}
+.banner .btn-yellow:hover{
+  background-color: rgb(252, 214, 124);
+}
